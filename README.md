@@ -1,4 +1,5 @@
-## Hi there 👋
+![soft](https://capsule-render.vercel.app/api?type=soft&color=bbff85&text=Hello%20Jui's%20World!%20%F0%9F%90%A2&fontColor=ffffff&fontSize=40&animation=fadeIn)
+
 
 <!--
 **ju2hong/ju2hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
