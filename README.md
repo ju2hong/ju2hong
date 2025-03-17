@@ -1,5 +1,7 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=93bf85&text=Hello%20Jui's%20World!%20%F0%9F%90%A2&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2hong&layout=compact&card_width=510&theme=transparent&text_color=65717d&langs_count=10&hide_title=true&hide_border=true)](https://github.com/nay3on/github-readme-stats)
+
 
 <!--
 **ju2hong/ju2hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
