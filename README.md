@@ -14,7 +14,7 @@
 ### 🦗자주쓰는 언어 . . 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2hong&layout=compact&card_width=510&theme=transparent&text_color=65717d&langs_count=10&hide_title=true&hide_border=true)](https://github.com/nay3on/github-readme-stats)
 
-### BLOG 바로가기
+### 💻 BLOG 바로가기
 
 [👸 Click !](https://ju2hong.github.io)
 <!--
