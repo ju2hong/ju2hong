@@ -16,7 +16,10 @@
 
 ### 💻 BLOG 바로가기
 
-[👸 Click !](https://ju2hong.github.io)
+<a href="https://ju2hong.github.io" target="_blank">
+    <img src="https://github.com/user-attachments/assets/cee24f3a-d836-4a7d-a0c8-2fb1fdb4f0a0" width="400" height="150" alt="아이콘 버튼">
+</a>
+
 <!--
 **ju2hong/ju2hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
