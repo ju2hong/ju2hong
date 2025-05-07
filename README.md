@@ -21,15 +21,15 @@
 
 <hr> 
 
-
+<img src="https://render.gitanimals.org/farms/ju2hong?t=20250507" width="600" height="300" />
 
 <hr>
 
-### 💻 BLOG 바로가기
+### 💻 GITBLOG
 
-<a href="https://ju2hong.github.io" target="_blank">
-    <img src="https://github.com/user-attachments/assets/cee24f3a-d836-4a7d-a0c8-2fb1fdb4f0a0" width="350" height="100" alt="아이콘 버튼">
-</a>
+<br>
+
+[![블로그 바로가기](https://img.shields.io/badge/📘%20블로그%20바로가기-Ju2hong.github.io-green?style=for-the-badge)](https://ju2hong.github.io)
 
 </div>
 <!--
