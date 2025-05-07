@@ -1,15 +1,7 @@
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=93bf85&text=Hello%20Jui's%20World!%20%F0%9F%90%A2&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
-<div align="center"
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ju2hong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/ju2hong"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
+<hr>
 
 ### 🐙내가 지금 배우는 . .
   
@@ -21,8 +13,26 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
+<hr>
+
 ### 🦗자주쓰는 언어 . . 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2hong&layout=compact&card_width=510&theme=transparent&text_color=65717d&langs_count=10&hide_title=true&hide_border=true)](https://github.com/nay3on/github-readme-stats)
+
+<hr> 
+
+<div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ju2hong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ju2hong"
+  width="600"
+  height="300"
+/>
+</a>
+</a>
+</a>
+</div>
+
+<hr>
 
 ### 💻 BLOG 바로가기
 
