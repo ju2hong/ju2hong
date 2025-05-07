@@ -1,6 +1,16 @@
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=93bf85&text=Hello%20Jui's%20World!%20%F0%9F%90%A2&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
+<div align="center"
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ju2hong&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ju2hong"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
 ### 🐙내가 지금 배우는 . .
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
@@ -19,6 +29,7 @@
 <a href="https://ju2hong.github.io" target="_blank">
     <img src="https://github.com/user-attachments/assets/cee24f3a-d836-4a7d-a0c8-2fb1fdb4f0a0" width="250" height="100" alt="아이콘 버튼">
 </a>
+
 
 <!--
 **ju2hong/ju2hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
