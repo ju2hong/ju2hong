@@ -35,7 +35,7 @@
 ### 💻 BLOG 바로가기
 
 <a href="https://ju2hong.github.io" target="_blank">
-    <img src="https://github.com/user-attachments/assets/cee24f3a-d836-4a7d-a0c8-2fb1fdb4f0a0" width="250" height="100" alt="아이콘 버튼">
+    <img src="https://github.com/user-attachments/assets/cee24f3a-d836-4a7d-a0c8-2fb1fdb4f0a0" width="350" height="100" alt="아이콘 버튼">
 </a>
 
 </div>
