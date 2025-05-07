@@ -21,7 +21,7 @@
 
 <hr> 
 
-<img src="https://render.gitanimals.org/farms/ju2hong?t=20250507" width="600" height="300" />
+<img src="https://render.gitanimals.org/farms/ju2hong?t=20250507" width="400" height="200" />
 
 <hr>
 
