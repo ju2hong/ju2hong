@@ -17,11 +17,12 @@
 <hr>
 
 ### ✏️STUDY✏️
-2022.03.02 ~ 2025.02.21 | 컴퓨터 소프트웨어 공학과 졸업 <br>
-2025.01.02 ~ 2025.07.02 | 한국경제신문 X 토스뱅크 풀스택 과정 수료
+컴퓨터 소프트웨어 공학과 졸업 (2022.03 ~ 2025.02) <br>
+한국경제신문 X 토스뱅크 풀스택 과정 수료 (2025.01.02 ~ 2025.07.02)
 
 
-### 🏆수상🏆
+### 🏆AWARDS🏆
+
 한국경제신문 X 토스뱅크 중간 프로젝트 우수상 수상 <br>
 한국경제신문 X 토스뱅크 최종 프로젝트 대상 수상
 
@@ -46,18 +47,3 @@
 
 
 </div>
-
-<!--
-**ju2hong/ju2hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
