@@ -4,7 +4,7 @@
 
 <hr>
 
-### 🐙내가 지금 배우는 . .
+### 🔨STACK🔨
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -16,10 +16,25 @@
 
 <hr>
 
-### 🦗자주쓰는 언어 . . 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2hong&layout=compact&card_width=510&theme=transparent&text_color=65717d&langs_count=10&hide_title=true&hide_border=true)](https://github.com/nay3on/github-readme-stats)
+### ✏️STUDY✏️
+2022.03.02 ~ 2025.02.21 | 컴퓨터 소프트웨어 공학과 졸업 <br>
+2025.01.02 ~ 2025.07.02 | 한국경제신문 X 토스뱅크 풀스택 과정 수료
 
-<hr> 
+
+### 🏆수상🏆
+한국경제신문 X 토스뱅크 중간 프로젝트 우수상 수상 <br>
+한국경제신문 X 토스뱅크 최종 프로젝트 대상 수상
+
+<hr>
+
+### 💻 SNS 🖥️
+
+<br>
+
+[![Gitblog](https://img.shields.io/badge/🐢%20GitBlog-orange?style=for-the-badge)](https://ju2hong.github.io)
+[![Velog](https://img.shields.io/badge/📘%20Velog-green?style=for-the-badge)](https://velog.io/@ju2hong/posts)
+
+<hr>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ju2hong&utm_content=farm">
 <img
@@ -29,15 +44,9 @@
 />
 </a>
 
-<hr>
-
-### 💻 GITBLOG
-
-<br>
-
-[![블로그 바로가기](https://img.shields.io/badge/📘%20블로그%20바로가기-Ju2hong.github.io-green?style=for-the-badge)](https://ju2hong.github.io)
 
 </div>
+
 <!--
 **ju2hong/ju2hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
